@@ -1,2 +1,14 @@
 # cn-window-resource
-HTML page archive and documentation
+
+静态页面归档仓库
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
